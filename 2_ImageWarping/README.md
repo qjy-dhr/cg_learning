@@ -39,7 +39,7 @@
 
 - 定点
 
-<img src="https://github.com/qjy-dhr/cg_learning/blob/main/2_ImageWarping/picture/.5png" alt="image-20220828101814983" style="zoom:25%;" />
+<img src="https://github.com/qjy-dhr/cg_learning/blob/main/2_ImageWarping/picture/5.png" alt="image-20220828101814983" style="zoom:25%;" />
 
 - 变形
 
