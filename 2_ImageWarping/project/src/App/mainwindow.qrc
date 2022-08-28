@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/MainWindow">
+        <file>Resources/images/new.png</file>
+        <file>Resources/images/open.png</file>
+        <file>Resources/images/save.png</file>
+        <file>Resources/images/icon.png</file>
+    </qresource>
+</RCC>
