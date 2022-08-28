@@ -9,7 +9,7 @@
 
 - 程序截图
 
-![image-20220828100818285](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220828100818285.png)
+![image-20220828100818285](https://github.com/qjy-dhr/cg_learning/blob/main/2_ImageWarping/picture/1.png)
 
 #### 按键解释
 
@@ -21,33 +21,33 @@
 
 - 定点
 
-<img src="C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220828101138268.png" alt="image-20220828101138268" style="zoom:25%;" />
+<img src="https://github.com/qjy-dhr/cg_learning/blob/main/2_ImageWarping/picture/2.png" style="zoom:25%;" />
 
 
 
 - 变形
 
-  <img src="D:\桌面\中科大\work\cg_learning\2_ImageWarping\picture\3.bmp" alt="3" style="zoom:25%;" />
+  <img src="https://github.com/qjy-dhr/cg_learning/blob/main/2_ImageWarping/picture/3.bmp" alt="3" style="zoom:25%;" />
 
   
 
 - 填充
 
-<img src="D:\桌面\中科大\work\cg_learning\2_ImageWarping\picture\4.bmp" alt="4" style="zoom:25%;" />
+<img src="https://github.com/qjy-dhr/cg_learning/blob/main/2_ImageWarping/picture/4.bmp" alt="4" style="zoom:25%;" />
 
 #### IDW效果
 
 - 定点
 
-<img src="C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220828101814983.png" alt="image-20220828101814983" style="zoom:25%;" />
+<img src="https://github.com/qjy-dhr/cg_learning/blob/main/2_ImageWarping/picture/.5png" alt="image-20220828101814983" style="zoom:25%;" />
 
 - 变形
 
-<img src="D:\桌面\中科大\work\cg_learning\2_ImageWarping\picture\6.bmp" alt="6" style="zoom:25%;" />
+<img src="https://github.com/qjy-dhr/cg_learning/blob/main/2_ImageWarping/picture/6.bmp" alt="6" style="zoom:25%;" />
 
 - 填充
 
-<img src="D:\桌面\中科大\work\cg_learning\2_ImageWarping\picture\7.bmp" alt="7" style="zoom:25%;" />
+<img src="https://github.com/qjy-dhr/cg_learning/blob/main/2_ImageWarping/picture/7.bmp" alt="7" style="zoom:25%;" />
 
 
 
