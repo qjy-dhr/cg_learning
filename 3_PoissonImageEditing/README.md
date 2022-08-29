@@ -19,11 +19,11 @@
 
 #### 效果截图
 
-![image-20220829093158035](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220829093158035.png)
+![image-20220829093158035](https://github.com/qjy-dhr/cg_learning/blob/main/3_PoissonImageEditing/picture/1.png)
 
-![image-20220829093236071](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220829093236071.png)
+![image-20220829093236071](https://github.com/qjy-dhr/cg_learning/blob/main/3_PoissonImageEditing/picture/2.png)
 
-![image-20220829093312533](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20220829093312533.png)
+![image-20220829093312533](https://github.com/qjy-dhr/cg_learning/blob/main/3_PoissonImageEditing/picture/3.png)
 
 #### 视频演示
 
