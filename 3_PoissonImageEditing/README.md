@@ -29,4 +29,7 @@
 
 见 /视频演示.mp4
 
+https://github.com/qjy-dhr/cg_learning/blob/main/3_PoissonImageEditing/video.mp4
+
 #### 
+
