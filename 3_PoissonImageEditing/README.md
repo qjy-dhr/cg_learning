@@ -33,3 +33,4 @@ https://github.com/qjy-dhr/cg_learning/blob/main/3_PoissonImageEditing/video.mp4
 
 #### 
 
+时间：8.24-8.27

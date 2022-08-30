@@ -51,6 +51,8 @@
 
 
 
-p.s.在添加ANN依赖后，如出现“由于找不到UANN_annd.dll，无法继续执行代码，重新安装程序可能会解决此问题”的报错，只需将
+p.s.在添加ANN依赖后，若出现“由于找不到UANN_annd.dll，无法继续执行代码，重新安装程序可能会解决此问题”的报错，只需将
 
-..\project\build\_deps\uann-src\bin下的UANN_annd.dll复制到..\project\bin下即可。若
+..\project\build\_deps\uann-src\bin下的UANN_annd.dll复制到..\project\bin下即可。
+
+时间 8.21-8.24
