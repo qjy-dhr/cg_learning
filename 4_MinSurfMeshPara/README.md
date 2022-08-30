@@ -43,43 +43,43 @@ di：顶点vi的度。
 
 ##### ball 效果
 
-<img src="https://github.com/qjy-dhr/cg_learning/blob/main/4_MinSurfMeshPara/picture/ball/ball-3d.png" alt="ball-3d" width="10%" />
+<img src="https://github.com/qjy-dhr/cg_learning/blob/main/4_MinSurfMeshPara/picture/ball/ball-3d.png" alt="ball-3d" width="30%" />
 
 pic1:init
 
-<img src="https://github.com/qjy-dhr/cg_learning/blob/main/4_MinSurfMeshPara/picture/ball/ball-surf.jpg" alt="ball-surf" width="10%" />
+<img src="https://github.com/qjy-dhr/cg_learning/blob/main/4_MinSurfMeshPara/picture/ball/ball-surf.jpg" alt="ball-surf" width="30%" />
 
 pic2:minisurf
 
-<img src="https://github.com/qjy-dhr/cg_learning/blob/main/4_MinSurfMeshPara/picture/ball/cc-par.png" alt="cc-par" width="10%" />
+<img src="https://github.com/qjy-dhr/cg_learning/blob/main/4_MinSurfMeshPara/picture/ball/cc-par.png" alt="cc-par" width="30%" />
 
 pic3:circle-cotangent 参数化
 
-<img src="https://github.com/qjy-dhr/cg_learning/blob/main/4_MinSurfMeshPara/picture/ball/cc-ball.png" alt="cc-ball" width="10%" />
+<img src="https://github.com/qjy-dhr/cg_learning/blob/main/4_MinSurfMeshPara/picture/ball/cc-ball.png" alt="cc-ball" width="30%" />
 
 pic4:circle-cotangent 纹理映射
 
-<img src="https://github.com/qjy-dhr/cg_learning/blob/main/4_MinSurfMeshPara/picture/ball/cu-par.png" alt="cu-par" width="10%" />
+<img src="https://github.com/qjy-dhr/cg_learning/blob/main/4_MinSurfMeshPara/picture/ball/cu-par.png" alt="cu-par" width="30%" />
 
 pic5:circle-uniform 参数化
 
-<img src="https://github.com/qjy-dhr/cg_learning/blob/main/4_MinSurfMeshPara/picture/ball/cu-ball.png" alt="cu-ball" width="10%" />
+<img src="https://github.com/qjy-dhr/cg_learning/blob/main/4_MinSurfMeshPara/picture/ball/cu-ball.png" alt="cu-ball" width="30%" />
 
 pic6:circle-uniform 纹理映射
 
-<img src="https://github.com/qjy-dhr/cg_learning/blob/main/4_MinSurfMeshPara/picture/ball/sc-par.png" alt="sc-par" width="10%" />
+<img src="https://github.com/qjy-dhr/cg_learning/blob/main/4_MinSurfMeshPara/picture/ball/sc-par.png" alt="sc-par" width="30%" />
 
 pic7:square-uniform 参数化
 
-<img src="https://github.com/qjy-dhr/cg_learning/blob/main/4_MinSurfMeshPara/picture/ball/sc-ball.png" alt="sc-ball" width="10%" />
+<img src="https://github.com/qjy-dhr/cg_learning/blob/main/4_MinSurfMeshPara/picture/ball/sc-ball.png" alt="sc-ball" width="30%" />
 
 pic8:square-uniform 纹理映射
 
-<img src="https://github.com/qjy-dhr/cg_learning/blob/main/4_MinSurfMeshPara/picture/ball/su-par.png" alt="su-par" width="10%" />
+<img src="https://github.com/qjy-dhr/cg_learning/blob/main/4_MinSurfMeshPara/picture/ball/su-par.png" alt="su-par" width="30%" />
 
 pic9:square-cotangent 参数化
 
-<img src="https://github.com/qjy-dhr/cg_learning/blob/main/4_MinSurfMeshPara/picture/ball/su-ball.png" alt="su-ball" width="10%" />
+<img src="https://github.com/qjy-dhr/cg_learning/blob/main/4_MinSurfMeshPara/picture/ball/su-ball.png" alt="su-ball" width="30%" />
 
 pic10 :square-cotangent 纹理映射
 
@@ -87,27 +87,27 @@ pic10 :square-cotangent 纹理映射
 
 ##### rabit 效果
 
-<img src="https://github.com/qjy-dhr/cg_learning/blob/main/4_MinSurfMeshPara/picture/rabit/rabit-3d.png" alt="rabit-3d" width="10%" />
+<img src="https://github.com/qjy-dhr/cg_learning/blob/main/4_MinSurfMeshPara/picture/rabit/rabit-3d.png" alt="rabit-3d" width="30%" />
 
 pic1:init
 
-<img src="https://github.com/qjy-dhr/cg_learning/blob/main/4_MinSurfMeshPara/picture/rabit/cc-par-rabit.png" alt="rabit-surf" width="10%" />
+<img src="https://github.com/qjy-dhr/cg_learning/blob/main/4_MinSurfMeshPara/picture/rabit/cc-par-rabit.png" alt="rabit-surf" width="30%" />
 
 pic2:minisurf
 
-<img src="https://github.com/qjy-dhr/cg_learning/blob/main/4_MinSurfMeshPara/picture/rabit/cc-par-rabit.png" alt="cc-par-rabit" width="10%" />
+<img src="https://github.com/qjy-dhr/cg_learning/blob/main/4_MinSurfMeshPara/picture/rabit/cc-par-rabit.png" alt="cc-par-rabit" width="30%" />
 
 pic3:circle-cotangent 参数化
 
-<img src="https://github.com/qjy-dhr/cg_learning/blob/main/4_MinSurfMeshPara/picture/rabit/cc-rabit.png" alt="cc-rabit" width="10%" />
+<img src="https://github.com/qjy-dhr/cg_learning/blob/main/4_MinSurfMeshPara/picture/rabit/cc-rabit.png" alt="cc-rabit" width="30%" />
 
 pic4:circle-cotangent 纹理映射
 
-<img src="https://github.com/qjy-dhr/cg_learning/blob/main/4_MinSurfMeshPara/picture/rabit/su-par-rabit.png" alt="su-par-rabit" width="10%" />
+<img src="https://github.com/qjy-dhr/cg_learning/blob/main/4_MinSurfMeshPara/picture/rabit/su-par-rabit.png" alt="su-par-rabit" width="30%" />
 
 pic5:square-uniform 参数化
 
-<img src="https://github.com/qjy-dhr/cg_learning/blob/main/4_MinSurfMeshPara/picture/rabit/su-rabit.png" alt="su-rabit" width="10%" />
+<img src="https://github.com/qjy-dhr/cg_learning/blob/main/4_MinSurfMeshPara/picture/rabit/su-rabit.png" alt="su-rabit" width="30%" />
 
 pic6:square-uniform 纹理映射
 
@@ -115,23 +115,23 @@ pic6:square-uniform 纹理映射
 
 ##### face 效果
 
-<img src="https://github.com/qjy-dhr/cg_learning/blob/main/4_MinSurfMeshPara/picture/face/face-3d.png" alt="face-3d" width="10%" />
+<img src="https://github.com/qjy-dhr/cg_learning/blob/main/4_MinSurfMeshPara/picture/face/face-3d.png" alt="face-3d" width="30%" />
 
 pic1:init
 
-<img src="https://github.com/qjy-dhr/cg_learning/blob/main/4_MinSurfMeshPara/picture/face/face-surf.png" alt="face-surf" width="10%" />
+<img src="https://github.com/qjy-dhr/cg_learning/blob/main/4_MinSurfMeshPara/picture/face/face-surf.png" alt="face-surf" width="30%" />
 
 pic2:minisurf
 
-<img src="https://github.com/qjy-dhr/cg_learning/blob/main/4_MinSurfMeshPara/picture/face/cc-par-face.png" alt="cc-par-face" width="10%" />
+<img src="https://github.com/qjy-dhr/cg_learning/blob/main/4_MinSurfMeshPara/picture/face/cc-par-face.png" alt="cc-par-face" width="30%" />
 
 pic3:circle-cotangent 参数化
 
-<img src="https://github.com/qjy-dhr/cg_learning/blob/main/4_MinSurfMeshPara/picture/face/su-par-face.png" alt="su-par-face" width="10%" />
+<img src="https://github.com/qjy-dhr/cg_learning/blob/main/4_MinSurfMeshPara/picture/face/su-par-face.png" alt="su-par-face" width="30%" />
 
 pic4:square-uniform 参数化
 
-<img src="https://github.com/qjy-dhr/cg_learning/blob/main/4_MinSurfMeshPara/picture/face/face-par.png" alt="face-par" width="10%" />
+<img src="https://github.com/qjy-dhr/cg_learning/blob/main/4_MinSurfMeshPara/picture/face/face-par.png" alt="face-par" width="30%" />
 
 pic5:纹理映射。p.s.一点小尝试，效果很吓人。😢
 

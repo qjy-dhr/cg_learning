@@ -9,7 +9,7 @@
 
 - 程序截图
 
-<img src="https://github.com/qjy-dhr/cg_learning/blob/main/2_ImageWarping/picture/1.png" width="30%" />
+<img src="https://github.com/qjy-dhr/cg_learning/blob/main/2_ImageWarping/picture/1.png" width="50%" />
 
 #### 按键解释
 
