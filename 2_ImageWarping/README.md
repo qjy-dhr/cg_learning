@@ -9,7 +9,7 @@
 
 - 程序截图
 
-![image-20220828100818285](https://github.com/qjy-dhr/cg_learning/blob/main/2_ImageWarping/picture/1.png)
+<img src="https://github.com/qjy-dhr/cg_learning/blob/main/2_ImageWarping/picture/1.png" width="30%" />
 
 #### 按键解释
 
@@ -21,33 +21,33 @@
 
 - 定点
 
-<img src="https://github.com/qjy-dhr/cg_learning/blob/main/2_ImageWarping/picture/2.png" style="zoom:25%;" />
+<img src="https://github.com/qjy-dhr/cg_learning/blob/main/2_ImageWarping/picture/2.png" width="30%" />
 
 
 
 - 变形
 
-  <img src="https://github.com/qjy-dhr/cg_learning/blob/main/2_ImageWarping/picture/3.bmp" alt="3" style="zoom:25%;" />
+  <img src="https://github.com/qjy-dhr/cg_learning/blob/main/2_ImageWarping/picture/3.bmp" alt="3" width="30%" />
 
   
 
 - 填充
 
-<img src="https://github.com/qjy-dhr/cg_learning/blob/main/2_ImageWarping/picture/4.bmp" alt="4" style="zoom:25%;" />
+<img src="https://github.com/qjy-dhr/cg_learning/blob/main/2_ImageWarping/picture/4.bmp" alt="4" width="30%" />
 
 #### IDW效果
 
 - 定点
 
-<img src="https://github.com/qjy-dhr/cg_learning/blob/main/2_ImageWarping/picture/5.png" alt="image-20220828101814983" style="zoom:25%;" />
+<img src="https://github.com/qjy-dhr/cg_learning/blob/main/2_ImageWarping/picture/5.png" alt="image-20220828101814983" width="30%" />
 
 - 变形
 
-<img src="https://github.com/qjy-dhr/cg_learning/blob/main/2_ImageWarping/picture/6.bmp" alt="6" style="zoom:25%;" />
+<img src="https://github.com/qjy-dhr/cg_learning/blob/main/2_ImageWarping/picture/6.bmp" alt="6" width="30%" />
 
 - 填充
 
-<img src="https://github.com/qjy-dhr/cg_learning/blob/main/2_ImageWarping/picture/7.bmp" alt="7" style="zoom:25%;" />
+<img src="https://github.com/qjy-dhr/cg_learning/blob/main/2_ImageWarping/picture/7.bmp" alt="7" width="30%" />
 
 
 

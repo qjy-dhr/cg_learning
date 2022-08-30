@@ -19,13 +19,11 @@
 
 #### 效果截图
 
-![image-20220829093158035](https://github.com/qjy-dhr/cg_learning/blob/main/3_PoissonImageEditing/picture/1.png)
+<img src="https://github.com/qjy-dhr/cg_learning/blob/main/3_PoissonImageEditing/picture/1.png" width="50%">
 
-![image-20220829093236071](https://github.com/qjy-dhr/cg_learning/blob/main/3_PoissonImageEditing/picture/2.png)
+<img src="https://github.com/qjy-dhr/cg_learning/blob/main/3_PoissonImageEditing/picture/2.png" width="50%">
 
-![image-20220829093312533](https://github.com/qjy-dhr/cg_learning/blob/main/3_PoissonImageEditing/picture/3.png)
-
-#### 视频演示
+<img src="https://github.com/qjy-dhr/cg_learning/blob/main/3_PoissonImageEditing/picture/3.png" width="50%">
 
 见 /video.mp4
 
