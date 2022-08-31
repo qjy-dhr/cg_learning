@@ -25,6 +25,8 @@
 
 <img src="https://github.com/qjy-dhr/cg_learning/blob/main/3_PoissonImageEditing/picture/3.png" width="50%">
 
+#### 效果视频
+
 见 /video.mp4
 
 https://github.com/qjy-dhr/cg_learning/blob/main/3_PoissonImageEditing/video.mp4

@@ -1,6 +1,6 @@
 # homework 4. 极小曲面和网格参数化👍
 
-#### 要求
+#### 1. 要求
 
 - 初步了解 \*.obj 格式的 3D 数据（\*.obj, \*.mtl)
   - 使用 Win10 自带的 “3D 查看器” 查看 obj 数据文件
@@ -13,7 +13,7 @@
   - 参数化：边界映射到平面凸多边形，求解稀疏方程组
 - 巩固使用 Eigen 库求解稀疏线性方程组
 
-#### 实现
+#### 2. 实现
 
 在UEngine中添加功能：
 
@@ -21,13 +21,13 @@
 - 非封闭网格曲面的参数化（边界圆形或方形，权重选取）；
 - 显示纹理映射。 
 
-#### 具体思路：
+#### 3. 具体思路：
 
-##### 极小曲面 
+##### 3.1 极小曲面 
 
 三角网格顶点vi的微分坐标为
 
-vi *−* ∑ j**∈**N*(*i) ωjvj
+vi *−* ∑ j**∈**N(i) ωjvj
 
 N(i)：和vi邻接的所有的顶点。
 
@@ -37,11 +37,11 @@ di：顶点vi的度。
 
 - 先确定一个边界上空间坐标或纹理坐标， 然后通过Laplace坐标构建求解稀疏方程组，得到空间坐标或纹理坐标。
 
-##### 网格参数化同理（区别边界形状）
+##### 3.2 网格参数化同理（区别边界形状）
 
-#### 实现效果
+#### 4. 实现效果
 
-##### ball 效果
+##### 4.1 ball 效果
 
 <img src="https://github.com/qjy-dhr/cg_learning/blob/main/4_MinSurfMeshPara/picture/ball/ball-3d.png" alt="ball-3d" width="30%" />
 
@@ -85,7 +85,7 @@ pic10 :square-cotangent 纹理映射
 
 ------
 
-##### rabit 效果
+##### 4.2 rabit 效果
 
 <img src="https://github.com/qjy-dhr/cg_learning/blob/main/4_MinSurfMeshPara/picture/rabit/rabit-3d.png" alt="rabit-3d" width="30%" />
 
@@ -113,7 +113,7 @@ pic6:square-uniform 纹理映射
 
 ------
 
-##### face 效果
+##### 4.3 face 效果
 
 <img src="https://github.com/qjy-dhr/cg_learning/blob/main/4_MinSurfMeshPara/picture/face/face-3d.png" alt="face-3d" width="30%" />
 
