@@ -91,7 +91,7 @@ pic10 :square-cotangent 纹理映射
 
 pic1:init
 
-<img src="https://github.com/qjy-dhr/cg_learning/blob/main/4_MinSurfMeshPara/picture/rabit/cc-par-rabit.png" alt="rabit-surf" width="30%" />
+<img src="https://github.com/qjy-dhr/cg_learning/blob/main/4_MinSurfMeshPara/picture/rabit/rabit-surf.png" alt="rabit-surf" width="30%" />
 
 pic2:minisurf
 
