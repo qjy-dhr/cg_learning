@@ -1,1 +1,1 @@
-data:存放的obj、png数据
+resource:存放的obj、png数据
