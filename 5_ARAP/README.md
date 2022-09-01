@@ -83,7 +83,7 @@ Mesh
 
 | name     | Init                                                         | ASAP Mesh                                                    | ARAP Mesh (10)                                               |
 | -------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Beetle   | ![init](D:\ustc\homework\cg_learning\5_ARAP\picture\Beetle_ABF\init.png) | ![ASAPMesh](D:\ustc\homework\cg_learning\5_ARAP\picture\Beetle_ABF\ASAPMesh.png) | ![ARAPMesh](D:\ustc\homework\cg_learning\5_ARAP\picture\Beetle_ABF\ARAPMesh.png) |
+| Beetle   | <img src="https://github.com/qjy-dhr/cg_learning/blob/main/5_ARAP/picture/Beetle_ABF/init.png" alt="face-par" width="30%" /> | ![ASAPMesh](D:\ustc\homework\cg_learning\5_ARAP\picture\Beetle_ABF\ASAPMesh.png) | ![ARAPMesh](D:\ustc\homework\cg_learning\5_ARAP\picture\Beetle_ABF\ARAPMesh.png) |
 | Cow      | ![init](D:\ustc\homework\cg_learning\5_ARAP\picture\Cow_dABF\init.png) | ![ASAPMesh](D:\ustc\homework\cg_learning\5_ARAP\picture\Cow_dABF\ASAPMesh.png) | ![ARAPMesh](D:\ustc\homework\cg_learning\5_ARAP\picture\Cow_dABF\ARAPMesh.png) |
 | Gargoyle | ![init](D:\ustc\homework\cg_learning\5_ARAP\picture\Gargoyle_ABF\init.jpg) | ![ASAPMesh ](D:\ustc\homework\cg_learning\5_ARAP\picture\Gargoyle_ABF\ASAPMesh .png) | ![ARAPMesh](D:\ustc\homework\cg_learning\5_ARAP\picture\Gargoyle_ABF\ARAPMesh.png) |
 | Isis     | ![init](D:\ustc\homework\cg_learning\5_ARAP\picture\Isis_dABF\init.png) | ![ASAPMesh](D:\ustc\homework\cg_learning\5_ARAP\picture\Isis_dABF\ASAPMesh.png) | ![ARAPMesh](D:\ustc\homework\cg_learning\5_ARAP\picture\Isis_dABF\ARAPMesh.png) |
