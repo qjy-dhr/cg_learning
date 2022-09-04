@@ -12,7 +12,7 @@
 - 这次作业我实现了两种对弹簧质点模型做仿真的方法：隐式欧拉法和老师给的加速的方法。
 - 增加了一些UI 的交互使操作更加方便。
 
-<img src="https://github.com/qjy-dhr/cg_learning/tree/main/6_MassSpring/picture/1.png" alt="image-20220904160429468" style="zoom:33%;" />
+<img src="https://github.com/qjy-dhr/cg_learning/tree/main/6_MassSpring/picture/1.png" alt="image-20220904160429468" width="33%" />
 
 #### 3. 原理
 
@@ -36,17 +36,17 @@
 
 ###### 隐式欧拉
 
-<img src="https://github.com/qjy-dhr/cg_learning/tree/main/6_MassSpring/picture/2.png" alt="image-20220904160819602" style="zoom:50%;" />
+<img src="https://github.com/qjy-dhr/cg_learning/tree/main/6_MassSpring/picture/2.png" alt="image-20220904160819602" width="50%" />
 
-![image-20220904163939367](https://github.com/qjy-dhr/cg_learning/tree/main/6_MassSpring/picture/3.png)
+![image-20220904163939367](https://github.com/qjy-dhr/cg_learning/tree/main/6_MassSpring/picture/3.png width="50%")
 
 
 
 ###### 加速方法
 
-<img src="https://github.com/qjy-dhr/cg_learning/tree/main/6_MassSpring/picture/4.png" alt="image-20220904160950877" style="zoom:50%;" />
+<img src="https://github.com/qjy-dhr/cg_learning/tree/main/6_MassSpring/picture/4.png" alt="image-20220904160950877" width="50%" />
 
-![image-20220904161522809](https://github.com/qjy-dhr/cg_learning/tree/main/6_MassSpring/picture/5.png)
+<img src="https://github.com/qjy-dhr/cg_learning/tree/main/6_MassSpring/picture/5.png" alt="image-20220904160950877" width="50%" />
 
 
 
@@ -57,7 +57,7 @@
 -   在弹性系数设置过大的时候，欧拉方法会出现变形的情况，问题在于在计算欧拉矩阵时，弹性系数的影响大于外力，导致的bug。
 - 在欧拉方法的循环推出条件上，有待调试和改进。
 
-<img src="https://github.com/qjy-dhr/cg_learning/tree/main/6_MassSpring/picture/6.png" alt="image-20220904161202938" style="zoom:50%;" />
+<img src="https://github.com/qjy-dhr/cg_learning/tree/main/6_MassSpring/picture/6.png" alt="image-20220904161202938" width="50%" />
 
 
 
