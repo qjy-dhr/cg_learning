@@ -42,7 +42,9 @@ h=0.65                                                    h=0.85                
 
 ###### 2.1.4 初始速度
 
+v=-20                                                        v=-40                                                     v=-80
 
+<img src="https://github.com/qjy-dhr/cg_learning/blob/main/7_SimulationTaichi/picture/image-20220906165949271.png" alt="image-20220906165949271" width="33%" /><img src="https://github.com/qjy-dhr/cg_learning/blob/main/7_SimulationTaichi/picture/image-20220906170048211.png" alt="image-20220906170048211" width="33%"/><img src="https://github.com/qjy-dhr/cg_learning/blob/main/7_SimulationTaichi/picture/image-20220906170337948.png" alt="image-20220906170337948" width="33%"/>
 
 ##### 2.2 参数空间
 
@@ -69,5 +71,7 @@ nu=0.1                                                    nu=0.3                
 <img src="https://github.com/qjy-dhr/cg_learning/blob/main/7_SimulationTaichi/picture/image-20220906162657984.png" alt="image-20220906162657984" width="45%" /><img src="https://github.com/qjy-dhr/cg_learning/blob/main/7_SimulationTaichi/picture/image-20220906162811055.png" alt="image-20220906162811055" width="45%" />
 
 <img src="https://github.com/qjy-dhr/cg_learning/blob/main/7_SimulationTaichi/picture/image-20220906162913497.png" alt="image-20220906162913497" width="45%" /><img src="https://github.com/qjy-dhr/cg_learning/blob/main/7_SimulationTaichi/picture/image-20220906163105675.png" alt="image-20220906163105675" width="45%" />
+
+视频见/video
 
 时间：9.6-9.7
