@@ -56,9 +56,9 @@ displacement = λ* (bias+scale * pixel value)
 
 cg_normalmap
 
-<img src="D:\ustc\homework\cg_learning\8_Shader\picture\cg_normalmap.jpg" alt="cg_normalmap" width="30%" />
+<img src="https://github.com/qjy-dhr/cg_learning/blob/main/8_Shader/picture/cg_normalmap.jpg" alt="cg_normalmap" width="30%" />
 
-<img src="D:\ustc\homework\cg_learning\8_Shader\picture\image-20220908225034386.png" alt="image-20220908225034386" width="50%" />
+<img src="https://github.com/qjy-dhr/cg_learning/blob/main/8_Shader/picture/image-20220908225034386.png" alt="image-20220908225034386" width="50%" />
 
 
 
@@ -66,9 +66,9 @@ cg_normalmap
 
 cg_displacementmap
 
-<img src="D:\ustc\homework\cg_learning\8_Shader\picture\cg_displacementmap.jpg" alt="cg_displacementmap" width="30%" />
+<img src="https://github.com/qjy-dhr/cg_learning/blob/main/8_Shader/picture/cg_displacementmap.jpg" alt="cg_displacementmap" width="30%" />
 
-<img src="D:\ustc\homework\cg_learning\8_Shader\picture\image-20220908225213689.png" alt="image-20220908225213689" width="50%" /><img src="D:\ustc\homework\cg_learning\8_Shader\picture\image-20220908225323683.png" alt="image-20220908225323683" width="50%" />
+<img src="https://github.com/qjy-dhr/cg_learning/blob/main/8_Shader/picture/image-20220908225213689.png" alt="image-20220908225213689" width="50%" /><img src="https://github.com/qjy-dhr/cg_learning/blob/main/8_Shader/picture/image-20220908225323683.png" alt="image-20220908225323683" width="50%" />
 
 bias=-1，scale=2  ； bias=0，scale=1
 
@@ -76,13 +76,13 @@ bias=-1，scale=2  ； bias=0，scale=1
 
 去噪前 去噪后
 
-<img src="D:\ustc\homework\cg_learning\8_Shader\picture\image-20220908234219587.png" alt="image-20220908234219587" width="50%" /><img src="D:\ustc\homework\cg_learning\8_Shader\picture\image-20220908234334960.png" alt="image-20220908234334960" width="50%" />
+<img src="https://github.com/qjy-dhr/cg_learning/blob/main/8_Shader/picture/image-20220908234219587.png" alt="image-20220908234219587" width="50%" /><img src="https://github.com/qjy-dhr/cg_learning/blob/main/8_Shader/picture/image-20220908234334960.png" alt="image-20220908234334960" width="50%" />
 
 去除噪声的 Displacement Map
 
-<img src="D:\ustc\homework\cg_learning\8_Shader\picture\image-20220908235114665.png" alt="image-20220908235114665" width="50%" />
+<img src="https://github.com/qjy-dhr/cg_learning/blob/main/8_Shader/picture/image-20220908235114665.png" alt="image-20220908235114665" width="50%" />
 
-<img src="D:\ustc\homework\cg_learning\8_Shader\picture\image-20220909092254462.png" alt="image-20220909092254462"  width="50%" />
+<img src="https://github.com/qjy-dhr/cg_learning/blob/main/8_Shader/picture/image-20220909092254462.png" alt="image-20220909092254462"  width="50%" />
 
 可以看到，尽管使用ANN进行了插值，还是会有一点缝隙。
 
