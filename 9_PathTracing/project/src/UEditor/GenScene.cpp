@@ -85,7 +85,7 @@ public:
 namespace Ubpa::detail::dynamic_reflection {
     void ReflRegist_Rotater() {
         Reflection<Rotater>::Instance() // name : struct ::Rotater
-            ;
+        ;
         if constexpr (std::is_base_of_v<Component, Rotater>) {
             Reflection<Rotater>::Instance().RegisterConstructor([](SObj* sobj) {
                 if constexpr (std::is_base_of_v<Component, Rotater>) {
@@ -231,11 +231,11 @@ namespace Ubpa::detail::GenScene_ {
 }
 
 Scene* SceneGenerator::GenScene(size_t n) {
-    assert(n < 1);
+    assert(n < 2);
 
 	using Func = Scene *();
 	Func* funcs[] = {
-		&detail::GenScene_::GenScene_0
+		&detail::GenScene_::GenScene_0,
 	};
 
 	return funcs[n]();

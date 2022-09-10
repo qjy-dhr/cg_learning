@@ -37,5 +37,10 @@ namespace Ubpa {
 		const size_t spp;
 		const Cmpt::Camera* const cam;
 		const Cmpt::Camera::CoordinateSystem ccs;
+
+		// alias mathod for environment light sampling
+		std::vector<float> probability_map;
+		std::vector<float> probability_table;
+		std::vector<size_t> alias_table;
 	};
 }
